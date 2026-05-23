@@ -25,4 +25,4 @@
 
 ![Go Lang](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=fff&labelColor=000)&nbsp; 
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=fff&labelColor=000)&nbsp; ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=000)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=fff&labelColor=000)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=SpringBoot&logoColor=fff&labelColor=000)&nbsp;
