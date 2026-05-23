@@ -1,7 +1,7 @@
 # Olá, meu nome é Pedro Makoski
 - Desenvolvedor web full-stack(aprendendo)
 - Estudante do IFPR Campus Colombo
-- Estou interessado principalmente nas tecnologias: Angular, Next.js(Typescript) e Go lang.
+- Estou interessado principalmente nas tecnologias: Next.js(Typescript), Go lang e Spring Boot(Java).
 ## Alguns detalhes sobre minhas contribuições
 <div>
   <a href="https://github.com/pedro-makoski/github-readme-stats">
