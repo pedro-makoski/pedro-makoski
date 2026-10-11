@@ -13,11 +13,7 @@
   </a>
 </div>
 &nbsp;
-<div>
-  <a href="https://github.com/pedro-makoski/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-makoski&theme=react">
-  </a>
-</div>
+
 
 *Nota: muitos projetos meus estão privados, por enquanto. Espero conseguir termina-los e deixa-los públicos🫡*
 
